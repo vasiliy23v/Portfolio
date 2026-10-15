@@ -102,7 +102,9 @@ export const copy: Record<Lang, Copy> = {
       { kicker: 'International', title: 'Mehrsprachig von Anfang an.', text: 'i18n-Architektur für mehrere Sprachen – sauber getrennt von der UI-Logik.' },
       { kicker: 'Qualität', title: 'Getestet. Dokumentiert.', text: 'Jest, React Testing Library, Storybook und visuelle Regressionstests mit Loki.' },
       { kicker: 'Design-Systeme', title: 'Wiederverwendbar statt kopiert.', text: 'Eigene Komponentenbibliotheken sorgen für ein konsistentes Markenbild.' },
-      { kicker: 'Performance', title: 'Schnell geladen.', text: 'Bundle- und Build-Optimierung mit Webpack und Vite.' },
+      { kicker: 'Performance', title: 'Schnell geladen.', text: 'Bundle- und Build-Optimierung mit Webpack und Vite, Code-Splitting und Lazy Loading.' },
+      { kicker: 'KI im Workflow', title: 'KI als Werkzeug, nicht als Autopilot.', text: 'Ich nutze KI-Assistenten für Scaffolding, Tests und Refactoring – und prüfe jede Zeile selbst. Ergebnis: schnellere Iteration bei gleichbleibender Qualität.' },
+      { kicker: 'Business', title: 'Von der Anforderung zur Oberfläche.', text: 'Ich übersetze fachliche Anforderungen in klare UI-Flows, stelle Rückfragen früh und liefere in kleinen, überprüfbaren Schritten.' },
     ],
     exp: {
       eyebrow: 'Berufserfahrung',
@@ -234,7 +236,9 @@ export const copy: Record<Lang, Copy> = {
       { kicker: 'International', title: 'Multilingual from day one.', text: 'An i18n architecture for multiple languages, cleanly separated from UI logic.' },
       { kicker: 'Quality', title: 'Tested. Documented.', text: 'Jest, React Testing Library, Storybook and visual regression tests with Loki.' },
       { kicker: 'Design systems', title: 'Reusable, not copy-pasted.', text: 'Custom component libraries keep the brand consistent.' },
-      { kicker: 'Performance', title: 'Fast to load.', text: 'Bundle and build optimisation with Webpack and Vite.' },
+      { kicker: 'Performance', title: 'Fast to load.', text: 'Bundle and build optimisation with Webpack and Vite, code splitting and lazy loading.' },
+      { kicker: 'AI in my workflow', title: 'AI as a tool, not an autopilot.', text: 'I use AI assistants for scaffolding, tests and refactoring — and review every line myself. The result: faster iteration at the same quality.' },
+      { kicker: 'Business', title: 'From requirement to interface.', text: 'I turn business requirements into clear UI flows, ask questions early and ship in small, reviewable steps.' },
     ],
     exp: {
       eyebrow: 'Experience',
@@ -366,7 +370,9 @@ export const copy: Record<Lang, Copy> = {
       { kicker: 'Міжнародність', title: 'Багатомовність із самого початку.', text: 'Архітектура i18n для кількох мов, чітко відокремлена від логіки інтерфейсу.' },
       { kicker: 'Якість', title: 'Протестовано. Задокументовано.', text: 'Jest, React Testing Library, Storybook та візуальні регресійні тести з Loki.' },
       { kicker: 'Дизайн-системи', title: 'Повторне використання замість копіювання.', text: 'Власні бібліотеки компонентів забезпечують цілісний вигляд бренду.' },
-      { kicker: 'Продуктивність', title: 'Швидке завантаження.', text: 'Оптимізація збірки та бандлу з Webpack і Vite.' },
+      { kicker: 'Продуктивність', title: 'Швидке завантаження.', text: 'Оптимізація бандлів і збірки з Webpack та Vite, code splitting і lazy loading.' },
+      { kicker: 'ШІ в роботі', title: 'ШІ як інструмент, а не автопілот.', text: 'Використовую ШІ-асистентів для каркасів, тестів і рефакторингу, а кожен рядок перевіряю сам. Результат: швидші ітерації за тієї самої якості.' },
+      { kicker: 'Бізнес', title: 'Від вимоги до інтерфейсу.', text: 'Перетворюю бізнес-вимоги на чіткі UI-флоу, ставлю питання завчасно і здаю роботу невеликими, перевірюваними кроками.' },
     ],
     exp: {
       eyebrow: 'Досвід роботи',
@@ -498,7 +504,9 @@ export const copy: Record<Lang, Copy> = {
       { kicker: 'Международность', title: 'Многоязычность с самого начала.', text: 'Архитектура i18n для нескольких языков, чётко отделённая от логики интерфейса.' },
       { kicker: 'Качество', title: 'Протестировано. Задокументировано.', text: 'Jest, React Testing Library, Storybook и визуальные регрессионные тесты с Loki.' },
       { kicker: 'Дизайн-системы', title: 'Повторное использование вместо копирования.', text: 'Собственные библиотеки компонентов обеспечивают единый облик бренда.' },
-      { kicker: 'Производительность', title: 'Быстрая загрузка.', text: 'Оптимизация сборки и бандла с Webpack и Vite.' },
+      { kicker: 'Производительность', title: 'Быстрая загрузка.', text: 'Оптимизация бандлов и сборки с Webpack и Vite, code splitting и lazy loading.' },
+      { kicker: 'ИИ в работе', title: 'ИИ как инструмент, а не автопилот.', text: 'Использую ИИ-ассистентов для каркасов, тестов и рефакторинга, а каждую строку проверяю сам. Результат: быстрее итерации при том же качестве.' },
+      { kicker: 'Бизнес', title: 'От требования к интерфейсу.', text: 'Превращаю бизнес-требования в понятные UI-флоу, задаю вопросы заранее и сдаю работу небольшими проверяемыми шагами.' },
     ],
     exp: {
       eyebrow: 'Опыт работы',
